@@ -20,6 +20,6 @@ fn main() {
         true=>println!("found the word"),
         false=>println!("did not find the word")
     }
-    //println!("contents of the file is {}",contents);
+    println!("contents of the file is {}",contents);
 
 }
